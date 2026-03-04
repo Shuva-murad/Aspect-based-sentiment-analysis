@@ -7,6 +7,6 @@ Dr. John Smith
 
 Team Members:
 - Shuva Murad 240034
-- Member 2
+- Md Rakibul HAsan 240119
 - Member 3
 - Member 4
