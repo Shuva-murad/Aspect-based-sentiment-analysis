@@ -7,5 +7,5 @@ Dr Chandana Withana
 
 Team Members:
 - Shuva Murad 240034
-- Md Rakibul HAsan 240119
-- Member 3
+- Md Rakibul Hasan 240119
+- H.M.S Shakil 240190
