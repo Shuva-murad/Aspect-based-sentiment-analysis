@@ -1,9 +1,9 @@
-MIS5102 Programming Principles – Group Project
+Applied IS Project – Group Project
 
-Project: Wishlist Feature for Online Shopping Platform
+Project: Aspect-based-sentiment-analysis
 
 Instructor:
-Dr. John Smith
+Dr Chandana Withana
 
 Team Members:
 - Shuva Murad 240034
